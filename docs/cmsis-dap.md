@@ -84,7 +84,7 @@ In Keil Uvision you can now choose to program over **JTAG interface**:
 
 
 
-or swd interface:
+or **SWD** interface:
 
 
 
