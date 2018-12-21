@@ -24,7 +24,7 @@ Make sure your CMSIS-DAP is running the correct [firmware](usbd_hid_dap.bin).
 
 
 
-To install the firmware, first you have to trigger the bootloader by shorting the pads before powering up the board:
+To install the firmware, first you have to invoke the bootloader by shorting the pads before powering up the board:
 
 
 
