@@ -48,7 +48,7 @@ First connect your CMSIS-DAP to MCB1700 over JTAG itnerface.  CMSIS-DAP interfac
 
 
 
-![](img/cmsis-dap/02_jtag_cmsisdap.PNG)
+![](img/cmsis-dap/02_jtag_cmsisdap_swd.PNG)
 
 
 
