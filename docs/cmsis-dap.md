@@ -34,6 +34,8 @@ To install the firmware, first you have to trigger the bootloader by shorting th
 
 **CRP_DISABLED** drive should show in your computer. Delete the firmware.bin and drag and drop the new [firmware](usbd_hid_dap.bin) file. Reset the board.
 
+![](img/cmsis-dap/crpdisabled.PNG)
+
 
 
 
