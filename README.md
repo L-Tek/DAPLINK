@@ -1,7 +1,7 @@
 ## Abstract
 
 
-L-Tek provides 3 daplink probes for programming mbed/daplink enabled boards:
+L-Tek provides 3 debugging probes for programming and debugging daplink enabled boards:
 
 - - -
 
@@ -29,7 +29,7 @@ L-Tek provides 3 daplink probes for programming mbed/daplink enabled boards:
 - - -
 
 
-Its supported features and information are gathered in this table:
+Supported features and other information is gathered in this table:
 
 |               | SWD | UART | JTAG | CONNECTOR                        | INFO                                                                                                                                                                    | ORDERING                                                       |
 |---------------|-----|------|------|----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
