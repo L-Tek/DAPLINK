@@ -6,7 +6,7 @@
 
 
 
-In this tutorial we  use CMSIS-DAP to program a MCB1700 board. We program a blinky example in Keil Uvisioin 5.
+In this tutorial we  use CMSIS-DAP to program a MCB1700 board. We program a blinky example in Keil Uvision 5.
 
 
 
@@ -32,7 +32,7 @@ To install the firmware, first you have to trigger the bootloader by shorting th
 
 
 
-**CRP_DISABLED** drive should show in your computer. Delete the firmware.bin file and drag and drop the new [firmware](usbd_hid_dap.bin) file.
+**CRP_DISABLED** drive should show in your computer. Delete the firmware.bin and drag and drop the new [firmware](usbd_hid_dap.bin) file. Reset the board.
 
 
 
@@ -60,7 +60,7 @@ whereas MCB1700 interface is
 
 
 
-The connceted boards: 
+Hence, the connected boards: 
 
 
 
