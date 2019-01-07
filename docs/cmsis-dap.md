@@ -44,7 +44,7 @@ To install the firmware, first you have to invoke the bootloader by shorting the
 
 
 
-First connect your CMSIS-DAP to MCB1700 over JTAG itnerface.  CMSIS-DAP interface is 
+First connect your CMSIS-DAP to MCB1700 over JTAG interface.  CMSIS-DAP interface is 
 
 
 
